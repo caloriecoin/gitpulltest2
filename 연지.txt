@@ -1,3 +1,5 @@
 연지 받았다 by 김연지 !!!!!!!!!!
 
-djfkdjfkdjf
+=======
+광일컴광일컴광일컴
+>>>>>>> refs/remotes/origin/main
